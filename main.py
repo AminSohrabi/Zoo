@@ -55,8 +55,7 @@ def timer():
         print(f"[🆗] Please Wait For {i} Second . . .")
         sleep(1)
         system("cls")
-    system("cls")
-    return 0
+    return system("cls")
 #                              <-------------------------- Vars -------------------------->
 
 main_menu = 0
