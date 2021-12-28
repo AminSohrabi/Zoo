@@ -17,7 +17,7 @@
 #                            <-------------------------- libraries -------------------------->
 
 from os import system
-from time import sleep, time
+from time import sleep
 
 #                              <-------------------------- Funcs -------------------------->
 
